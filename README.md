@@ -134,65 +134,11 @@ I also work with databases, authentication, deployment, APIs and the less glamor
 
 ## / SELECTED WORK
 
-### `01` · SPORTIRW
-
-**Sports platform / community experience**
-
-A sports focused product built around a modern TypeScript web stack, with separate iterations exploring the product, community and interface experience.
-
-**TypeScript · React · web UI · Vercel**
-
-[view live](https://sportirw.vercel.app)
-
----
-
-### `02` · SOLE STORIES
-
-**JABO Collection**
-
-A fashion-forward shoe storefront designed around strong product imagery, editorial spacing, product discovery and a mobile-first shopping experience.
-
-**TypeScript · React · ecommerce · Vercel**
-
-[view live](https://jabo-collection-beige.vercel.app)
-
----
-
-### `03` · UGARIT
-
-**Mediterranean restaurant experience**
-
-A dark luxury restaurant concept built around typography, atmosphere, reservations and a polished hospitality interface.
-
-**TypeScript · React · product design · Vercel**
-
-[view live](https://ugarit-gold.vercel.app)
-
----
-
-### `04` · DZETSHAL
-
-**Fragrance / fashion commerce**
-
-A brand experience focused on premium product presentation, dark editorial styling and a clean shopping flow.
-
-**TypeScript · React · ecommerce · Vercel**
-
-[view live](https://dzetshal-fragrance-suite.vercel.app)
-
----
-
-### `05` · AXELLO
-
-**Personal digital space**
-
-My own little corner of the internet.
-
-Experimental, visual, occasionally unnecessary, and exactly the kind of thing I like building.
-
-**HTML · CSS · personal web**
-
-[visit](https://axello.vercel.app)
+- **SPORTIRW** · TypeScript · React · Vercel · [view live](https://sportirw.vercel.app)
+- **SOLE STORIES** · TypeScript · React · Vercel · [view live](https://jabo-collection-beige.vercel.app)
+- **UGARIT** · TypeScript · React · Vercel · [view live](https://ugarit-gold.vercel.app)
+- **DZETSHAL** · TypeScript · React · Vercel · [view live](https://dzetshal-fragrance-suite.vercel.app)
+- **AXELLO** · HTML · CSS · [visit](https://axello.vercel.app)
 
 ---
 
