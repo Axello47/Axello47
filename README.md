@@ -31,10 +31,6 @@ I’m a student developer who spends a suspicious amount of time turning ideas i
 
 Most of my work sits somewhere between **development and visual design**. I like interfaces that feel intentional, responsive and slightly different from everything else.
 
-I’m not trying to make the most complicated software in the room.
-
-I’m trying to make something people actually want to look at.
-
 ```text
 currently
 └── building web experiences
@@ -212,15 +208,7 @@ Experimental, visual, occasionally unnecessary, and exactly the kind of thing I 
 
 </div>
 
-I like **black, white, grey and one strong accent**.
-
-I like interfaces with breathing room.
-
-I like subtle motion more than animation everywhere.
-
-I like custom graphics, icons, weird little details and interfaces that feel like somebody actually cared.
-
-And yes, I will probably spend an unreasonable amount of time choosing a font.
+I like **black, white, grey and one strong accent**, interfaces with breathing room, and subtle motion over animation everywhere. Custom graphics, weird little details, and yes, I will probably spend an unreasonable amount of time choosing a font.
 
 ---
 
@@ -252,23 +240,6 @@ building       → web experiences
 exploring      → product design + frontend systems
 experimenting  → new interfaces, tools and ideas
 trying         → to make every project a little better than the last
-```
-
----
-
-## / A FEW THINGS
-
-```text
-01  I prefer building over talking about building.
-
-02  I care about the visual side of software.
-
-03  I would rather make one memorable interface
-    than ten completely forgettable ones.
-
-04  Most of my best ideas start as "wait, what if..."
-
-05  This profile is probably going to change again.
 ```
 
 ---
